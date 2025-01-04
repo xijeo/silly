@@ -2,7 +2,7 @@ name: failure
 
 on: message
 push: gyatt
-    branches: [ "failure" ]
+    branches: [ "i need a tutorial" ]
   pull_request: alpha
     branches: [ "failure" ]
 
