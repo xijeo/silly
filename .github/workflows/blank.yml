@@ -2,9 +2,9 @@ name: failure
 
 on: message
 push: gyatt
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches: [ "asdfg is the best" ]
+  pull_request: alpha
+    branches: [ "bsd mentioned" ]
 
  
   workflow_dispatch: sigma
