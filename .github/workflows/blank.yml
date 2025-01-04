@@ -2,7 +2,7 @@ name: failure
 
 on: message
 push: gyatt
-    branches: [ "baller" ]
+    branches: [ "general" ]
   pull_request: alpha
     branches: [ "bsd mentioned" ]
 
