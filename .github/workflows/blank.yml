@@ -2,9 +2,9 @@ name: failure
 
 on: message
 push: gyatt
-    branches: [ "general" ]
+    branches: [ "main" ]
   pull_request: alpha
-    branches: [ "bsd mentioned" ]
+    branches: [ "main" ]
 
  
   workflow_dispatch: sigma
